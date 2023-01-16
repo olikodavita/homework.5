@@ -1,0 +1,113 @@
+
+
+.burger{ width: 647px;
+    height: 323px;
+    padding-left: 415px;
+
+    margin-bottom: 29px;
+}
+
+
+.cake1text {
+    display: flex;
+    width: 398px;
+    margin: 0 auto;
+    
+    
+    }
+
+    .caketextt{
+        width: 175px;
+        height: 14px; 
+        margin-bottom: 8px;
+        font-weight: 700px;
+    font-size: 12px;
+    line-height: 15px;
+    margin right: 155px;
+    }
+
+
+.cake {width: 171px;
+    height: 222px;       
+    margin-bottom: 33px;
+    margin-right: 13px;
+    display:flex;
+}
+
+.menu{
+    display:flex:
+}
+
+        
+
+.texti1 {
+    
+        color: black;
+        line-height: 15px;
+        font-weight: 400px;
+        font-size: 12px;
+        padding-left: 5cm;
+    
+    }
+    
+ .linee{
+    display: flex;
+    justify-content;
+    width: 392px;
+    height: 0px;
+    left: 514px;
+    top: 627px;
+    margin-bottom: 29px;
+}
+.menuheading{
+
+    display: flex;
+    width: 398px;
+    margin: 0 auto;
+    
+    
+}
+
+
+
+h2 {
+
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    margin-top: -290px;
+padding-left: -26cm;
+}
+.ourmenu {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-right: 0px;
+    width: 175px;
+    
+
+
+}
+
+
+.salad-photo--{
+    
+    width: 288px;
+    height: 442px;
+
+    margin-left: 232px;
+    margin-top: -480px;
+    margin-right: 22cm;
+    padding-right: 43px;
+    
+    
+ 
+    
+    
+}
+
